@@ -1,4 +1,4 @@
-"""Feature discovery and registration for uvlhub.
+"""Feature discovery and registration for uvlhub. Test
 
 Replicates the useful contract of splent_framework's FeatureIntegrator without
 the SPL machinery (no UVL constraint solving, refinement registry, namespaces).
